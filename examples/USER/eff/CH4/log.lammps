@@ -1,0 +1,4 @@
+LAMMPS (5 Jun 2019)
+variable	sname index ch4_ionized
+log		${sname}.nvt.log
+log		ch4_ionized.nvt.log
